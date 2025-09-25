@@ -1,2 +1,2 @@
 # learning-react
-for learning purpose
+# learning-react
